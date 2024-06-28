@@ -28,3 +28,7 @@ BPNN promotes the advantages of biological neural networks so it has the followi
 (2) Distributed storage capacity and fault tolerance. BPNN is implemented through weights. For complex calculus problems, through the process of training the NN, rules and experiences are accumulated and all are distributed and stored in the weights of the whole NN. Even if stored information is lost, the system can still be analyzed to make it fault-tolerant.
 (3) Self-learning, Self-organization and Self-adaptation. BPNN is reflected in the variability of its structure. The weight of each neuron is adjusted by training its self-organization to adapt to changes in external conditions. By learning a large amount of data, NN can adapt to the solution of different problems according to the model and has a certain adaptability to the data.
 (4) Global nonlinear output. In general, the entire operation process of BPNN is the joint operation of all neurons to produce nonlinear output so that the output of BPNN is not disturbed by individual factors. The analysis results of this network are global.
+
+## flowchart
+ ![image](https://github.com/DieterHoang-AI/Loan-Default-Prediction-base-on-Backpropagation/assets/172985518/15672785-9ee3-4cf4-9d36-c9b56a760ca4)
+
